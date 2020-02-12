@@ -12,14 +12,12 @@ for a given task.
 ---
 
 This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+latest stable release please visit the [CodeIgniter Downloads](https://codeigniter.com/download) page.
 
 ### Changelog and New Features
 ---
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+You can find a list of all changes for each release in the [user guide change log](https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst).
 
 ### Server Requirements
 ---
@@ -33,26 +31,23 @@ issues, as well as missing features.
 ### Installation
 ---
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+Please see the [installation section](https://codeigniter.com/user_guide/installation/index.html) of the CodeIgniter User Guide.
 
 ### License
 ---
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+Please see the [license agreement](https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst).
 
 ### Resources
 ---
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <https://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
+-  [User Guide](https://codeigniter.com/docs)
+-  [Language File Translations](https://github.com/bcit-ci/codeigniter3-translations)
+-  [Community Forums](https://forum.codeigniter.com/)
+-  [Community Wiki](https://github.com/bcit-ci/CodeIgniter/wiki)
+-  [Community Slack Channel](https://codeigniterchat.slack.com)
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
+Report security issues to our [Security Panel](mailto:security@codeigniter.com) or via our [page on HackerOne](https://hackerone.com/codeigniter), thank you.
 
 ### Acknowledgement
 ---
