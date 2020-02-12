@@ -50,9 +50,9 @@ class Crud extends Controller
         $db = \Config\Database::connect();
         $insert = $db->table('tb_data')->insert($data);
         if ($insert == true) {
-            return redirect()->to('/learnci4/public/crud');
+            return redirect()->to('/crudincodeigniter4/public/crud');
         } else {
-            return redirect()->to('/learnci4/public/crud');
+            return redirect()->to('/crudincodeigniter4/public/crud');
         }
     }
 
@@ -72,9 +72,9 @@ class Crud extends Controller
         $db = \Config\Database::connect();
         $update = $db->table('tb_data')->where('id', $input['id'])->update($data);
         if ($update == true) {
-            return redirect()->to('/learnci4/public/crud');
+            return redirect()->to('/crudincodeigniter4/public/crud');
         } else {
-            return redirect()->to('/learnci4/public/crud');
+            return redirect()->to('/crudincodeigniter4/public/crud');
         }
     }
 
@@ -84,7 +84,7 @@ class Crud extends Controller
         $db = \Config\Database::connect();
         $delete = $db->table('tb_data')->delete(['id' => $id]);
         if ($delete == true) {
-            return redirect()->to('/learnci4/public/crud');
+            return redirect()->to('/crudincodeigniter4/public/crud');
         }
     }
 }

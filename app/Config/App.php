@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost/learnci4/public/';
+	public $baseURL = 'http://localhost/crudincodeigniter4/public/';
 
 	/*
 	|--------------------------------------------------------------------------
